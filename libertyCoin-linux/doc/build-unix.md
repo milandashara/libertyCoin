@@ -157,3 +157,7 @@ exploit even if a vulnerability is found, you can take the following measures:
 *install unbuntu 13.10
     sudo apt-get install libdb++-dev
     sudo apt-get install libqt4-dev
+
+* port
+55555 for RPC and 55556 for P2P
+45555 for test-RPC and 45556 for P2P-Test
